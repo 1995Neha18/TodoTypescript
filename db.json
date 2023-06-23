@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": true
+    },
+    {
+      "title": "Learn Rust",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn UI",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn Dsa",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Task-4",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Task-5",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Task-9",
+      "status": false,
+      "id": 7
+    }
+  ]
+}
